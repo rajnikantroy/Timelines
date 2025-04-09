@@ -1,0 +1,132 @@
+{
+  "events": [
+    {
+      "id": "tom-1",
+      "section": "Introduction",
+      "date": "1962-07-03",
+      "title": "Early Life and Career Beginnings",
+      "description": "Thomas Cruise Mapother IV was born in Syracuse, New York. He developed an interest in acting after a knee injury ended his high school wrestling career. His breakthrough came with the 1983 film 'Risky Business', which established him as a rising star in Hollywood.",
+      "metrics": {
+        "films": 1,
+        "awards": 0,
+        "boxOffice": 63600000,
+        "criticalRating": 85,
+        "audienceRating": 90
+      },
+      "status": "Active",
+      "accountType": "Actor"
+    },
+    {
+      "id": "tom-2",
+      "section": "Key Events",
+      "date": "1986-05-16",
+      "title": "Top Gun Release",
+      "description": "Tom Cruise stars as Lieutenant Pete 'Maverick' Mitchell in the blockbuster film 'Top Gun'. The film became a cultural phenomenon and solidified Cruise's status as a major Hollywood star. It grossed over $356 million worldwide and became the highest-grossing film of 1986.",
+      "metrics": {
+        "films": 1,
+        "awards": 1,
+        "boxOffice": 356000000,
+        "criticalRating": 75,
+        "audienceRating": 95
+      },
+      "status": "Completed",
+      "accountType": "Actor"
+    },
+    {
+      "id": "tom-3",
+      "section": "Key Events",
+      "date": "1996-05-22",
+      "title": "Mission: Impossible Franchise",
+      "description": "Tom Cruise stars as Ethan Hunt in the first 'Mission: Impossible' film, which he also produced. The film launched one of the most successful action franchises in cinema history, with Cruise performing many of his own stunts.",
+      "metrics": {
+        "films": 1,
+        "awards": 3,
+        "boxOffice": 457000000,
+        "criticalRating": 80,
+        "audienceRating": 92
+      },
+      "status": "Active",
+      "accountType": "Actor/Producer"
+    },
+    {
+      "id": "tom-4",
+      "section": "Key Events",
+      "date": "2002-06-21",
+      "title": "Minority Report",
+      "description": "Cruise stars in Steven Spielberg's sci-fi thriller 'Minority Report', showcasing his ability to excel in both action and dramatic roles. The film received critical acclaim and was nominated for an Academy Award.",
+      "metrics": {
+        "films": 1,
+        "awards": 2,
+        "boxOffice": 358000000,
+        "criticalRating": 90,
+        "audienceRating": 88
+      },
+      "status": "Completed",
+      "accountType": "Actor"
+    },
+    {
+      "id": "tom-5",
+      "section": "Key Events",
+      "date": "2018-07-27",
+      "title": "Mission: Impossible - Fallout",
+      "description": "The sixth installment in the Mission: Impossible series, where Cruise performed a HALO (High Altitude Low Opening) jump and broke his ankle during a rooftop chase scene. The film received widespread critical acclaim and became the highest-grossing film in the franchise.",
+      "metrics": {
+        "films": 1,
+        "awards": 5,
+        "boxOffice": 791000000,
+        "criticalRating": 97,
+        "audienceRating": 94
+      },
+      "status": "Completed",
+      "accountType": "Actor/Producer"
+    },
+    {
+      "id": "tom-6",
+      "section": "Key Events",
+      "date": "2022-05-27",
+      "title": "Top Gun: Maverick",
+      "description": "Reprising his role as Pete 'Maverick' Mitchell after 36 years, Cruise delivers a critically acclaimed performance in the long-awaited sequel. The film became the highest-grossing film of 2022 and received six Academy Award nominations.",
+      "metrics": {
+        "films": 1,
+        "awards": 6,
+        "boxOffice": 1493000000,
+        "criticalRating": 96,
+        "audienceRating": 99
+      },
+      "status": "Completed",
+      "accountType": "Actor/Producer"
+    },
+    {
+      "id": "tom-7",
+      "section": "Key Events",
+      "date": "2023-07-12",
+      "title": "Mission: Impossible - Dead Reckoning Part One",
+      "description": "The seventh installment in the Mission: Impossible series, featuring one of Cruise's most dangerous stunts - riding a motorcycle off a cliff. The film continues to showcase Cruise's commitment to practical effects and stunt work.",
+      "metrics": {
+        "films": 1,
+        "awards": 3,
+        "boxOffice": 567000000,
+        "criticalRating": 96,
+        "audienceRating": 94
+      },
+      "status": "Completed",
+      "accountType": "Actor/Producer"
+    },
+    {
+      "id": "tom-8",
+      "section": "Conclusion",
+      "date": "2024-01-01",
+      "title": "Career Legacy",
+      "description": "With over 40 years in the film industry, Tom Cruise has established himself as one of the most successful and influential actors in Hollywood history. Known for his dedication to practical stunts and commitment to filmmaking, he continues to push the boundaries of action cinema while maintaining his status as a global box office draw.",
+      "metrics": {
+        "films": 45,
+        "awards": 100,
+        "boxOffice": 11000000000,
+        "criticalRating": 85,
+        "audienceRating": 90
+      },
+      "status": "Active",
+      "accountType": "Actor/Producer"
+    }
+  ]
+} 

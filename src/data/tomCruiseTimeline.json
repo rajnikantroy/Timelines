@@ -1,0 +1,234 @@
+{
+  "events": [
+    {
+      "id": "tc-1",
+      "section": "Career Breakthrough",
+      "date": "1981-08-01",
+      "title": "Early Career & Breakthrough",
+      "description": "Tom Cruise's journey from his debut in 'Endless Love' to his breakthrough role in 'Risky Business'",
+      "metrics": {
+        "earlyFilms": 4,
+        "criticalAcclaim": "Rising Star",
+        "boxOffice": "$63.5M",
+        "awards": {
+          "nominations": 2,
+          "wins": 1
+        }
+      },
+      "details": {
+        "notableFilms": [
+          {
+            "title": "Endless Love",
+            "year": 1981,
+            "role": "Billy"
+          },
+          {
+            "title": "Taps",
+            "year": 1981,
+            "role": "Cadet Captain David Shawn"
+          },
+          {
+            "title": "The Outsiders",
+            "year": 1983,
+            "role": "Steve Randle"
+          },
+          {
+            "title": "Risky Business",
+            "year": 1983,
+            "role": "Joel Goodson",
+            "boxOffice": "$63.5M",
+            "criticalResponse": "Breakthrough Performance"
+          }
+        ],
+        "achievements": ["First Leading Role", "Critical Recognition", "Box Office Success"]
+      },
+      "status": "Milestone",
+      "accountType": "Actor"
+    },
+    {
+      "id": "tc-2",
+      "section": "Superstar Era",
+      "date": "1986-05-16",
+      "title": "Rise to Superstardom: Top Gun Era",
+      "description": "The period that established Tom Cruise as a global superstar, centered around the massive success of 'Top Gun'",
+      "metrics": {
+        "boxOfficeTotal": "$356M",
+        "criticalScore": 92,
+        "awards": {
+          "nominations": 8,
+          "wins": 4,
+          "categories": ["Best Actor", "People's Choice"]
+        },
+        "marketImpact": {
+          "aviatorSunglasseSales": "+40%",
+          "navalRecruitment": "+500%"
+        }
+      },
+      "details": {
+        "topGunSuccess": {
+          "domesticBoxOffice": "$176M",
+          "internationalBoxOffice": "$180M",
+          "merchandising": "$45M",
+          "soundtrackSales": "9x Platinum"
+        },
+        "culturalImpact": [
+          "Aviation enthusiasm surge",
+          "Fashion influence",
+          "Soundtrack success",
+          "Military recruitment boost"
+        ],
+        "behindTheScenes": {
+          "flightTraining": "35 hours",
+          "actualFlights": 12,
+          "navyCollaboration": true
+        }
+      },
+      "status": "Peak",
+      "accountType": "A-List Actor"
+    },
+    {
+      "id": "tc-3",
+      "section": "Critical Acclaim",
+      "date": "1989-12-20",
+      "title": "Artistic Evolution & Critical Success",
+      "description": "Period of critical acclaim and artistic growth with 'Born on the Fourth of July' and 'Rain Man'",
+      "metrics": {
+        "awards": {
+          "oscarNominations": 1,
+          "goldenGlobeWins": 1,
+          "criticAwards": 4
+        },
+        "criticalResponse": {
+          "averageRating": 94,
+          "topCriticReviews": 56,
+          "positiveReviews": 52
+        },
+        "boxOfficeSuccess": {
+          "bornOnFourthJuly": "$161M",
+          "rainMan": "$354M"
+        }
+      },
+      "details": {
+        "performanceDetails": {
+          "physicalTransformation": "3 months preparation",
+          "methodActing": "Lived in wheelchair",
+          "interviews": "35 Vietnam veterans"
+        },
+        "awards": [
+          {
+            "name": "Golden Globe",
+            "category": "Best Actor - Drama",
+            "year": 1990
+          },
+          {
+            "name": "Academy Award",
+            "category": "Best Actor",
+            "result": "Nomination",
+            "year": 1990
+          }
+        ]
+      },
+      "status": "Acclaimed",
+      "accountType": "Award-Winning Actor"
+    },
+    {
+      "id": "tc-4",
+      "section": "Action Icon",
+      "date": "1996-05-22",
+      "title": "Mission: Impossible Franchise Launch",
+      "description": "The beginning of the Mission: Impossible franchise and Cruise's evolution as an action star",
+      "metrics": {
+        "franchiseSuccess": {
+          "totalFilms": 6,
+          "globalBoxOffice": "$3.5B",
+          "averageRating": 88
+        },
+        "stunts": {
+          "performed": 95,
+          "trainingHours": 850,
+          "insuranceCost": "$70M"
+        },
+        "productionRole": {
+          "producerCredits": 18,
+          "budgetManaged": "$1.2B",
+          "employeesOversaw": 1200
+        }
+      },
+      "details": {
+        "franchiseGrowth": [
+          {
+            "film": "Mission: Impossible",
+            "year": 1996,
+            "boxOffice": "$457M",
+            "signature": "CIA Vault Scene"
+          },
+          {
+            "film": "Mission: Impossible 2",
+            "year": 2000,
+            "boxOffice": "$546M",
+            "signature": "Rock Climbing"
+          }
+        ],
+        "productionCompany": {
+          "name": "Cruise/Wagner Productions",
+          "founded": 1993,
+          "totalProductions": 19
+        }
+      },
+      "status": "Franchise Lead",
+      "accountType": "Actor/Producer"
+    },
+    {
+      "id": "tc-5",
+      "section": "Modern Era",
+      "date": "2022-05-27",
+      "title": "Top Gun: Maverick Success",
+      "description": "Return to the Top Gun franchise with record-breaking success and critical acclaim",
+      "metrics": {
+        "boxOffice": {
+          "domestic": "$718M",
+          "international": "$770M",
+          "total": "$1.488B"
+        },
+        "criticalResponse": {
+          "rottenTomatoes": 96,
+          "metacritic": 78,
+          "audienceScore": 99
+        },
+        "records": {
+          "personalBest": true,
+          "pandemic": "Highest Grossing",
+          "paramountRecord": true
+        }
+      },
+      "details": {
+        "production": {
+          "flightScenes": {
+            "actualFlights": 28,
+            "trainingProgram": "3 months",
+            "camerasPerPlane": 6
+          },
+          "technology": {
+            "imax": "Specially Formatted",
+            "cameras": "Sony Venice",
+            "soundMix": "Dolby Atmos"
+          }
+        },
+        "impact": {
+          "navalRecruitment": "+800%",
+          "aviationSchools": "+320%",
+          "merchandiseSales": "$200M"
+        },
+        "awards": {
+          "academyAwards": {
+            "nominations": 6,
+            "wins": 1
+          },
+          "otherAwards": 28
+        }
+      },
+      "status": "Legacy",
+      "accountType": "Global Superstar"
+    }
+  ]
+} 
